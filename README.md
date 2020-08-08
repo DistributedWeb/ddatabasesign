@@ -1,9 +1,9 @@
-# @hyperswarm/hypersign
+# ddatabasesign
 
 Utility methods related to public key cryptography to be used with distributed mutable storage.
 
 ```
-npm install @hyperswarm/hypersign
+npm install ddatabasesign
 ```
 
 ## API
